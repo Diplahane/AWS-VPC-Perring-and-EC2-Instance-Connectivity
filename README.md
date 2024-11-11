@@ -1,6 +1,5 @@
 # AWS-VPC-Perring-and-EC2-Instance-Connectivity
 # Creating VPC and Subnet
-![Screenshot 2024-03-18 131520](https://github.com/user-attachments/assets/518a0bf1-2293-45c6-a65a-74a310777574)
 
 Login to the AWS console and navigate to the VPC section.<br>
 Click on "Create VPC"<br><br>
